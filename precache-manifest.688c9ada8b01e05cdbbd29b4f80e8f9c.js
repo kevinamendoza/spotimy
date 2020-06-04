@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5490e13941713a550df29ea1260d9b51",
+    "revision": "ca5d181a04702f8e2d164ed1098df511",
     "url": "/spotimy/index.html"
   },
   {
@@ -8,12 +8,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spotimy/static/css/main.c15dab1e.chunk.css"
   },
   {
-    "revision": "b34f56c6203a29472b34",
-    "url": "/spotimy/static/js/2.27dccc29.chunk.js"
+    "revision": "a0d9ca1ecf7efa90255d",
+    "url": "/spotimy/static/js/2.ca2c7a4c.chunk.js"
   },
   {
-    "revision": "d705cb622423d72c5defbf368ca70dcc",
-    "url": "/spotimy/static/js/2.27dccc29.chunk.js.LICENSE"
+    "revision": "85b12af60ddf57ea6860c3b16407fd52",
+    "url": "/spotimy/static/js/2.ca2c7a4c.chunk.js.LICENSE"
   },
   {
     "revision": "5354abbc19f5253d15e4",
