@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spotimy/static/css/main.819b5eb3.chunk.css",
-    "main.js": "/spotimy/static/js/main.dcb5a63d.chunk.js",
-    "main.js.map": "/spotimy/static/js/main.dcb5a63d.chunk.js.map",
+    "main.js": "/spotimy/static/js/main.d9d88cd8.chunk.js",
+    "main.js.map": "/spotimy/static/js/main.d9d88cd8.chunk.js.map",
     "runtime-main.js": "/spotimy/static/js/runtime-main.7615c368.js",
     "runtime-main.js.map": "/spotimy/static/js/runtime-main.7615c368.js.map",
     "static/js/2.df9464a5.chunk.js": "/spotimy/static/js/2.df9464a5.chunk.js",
     "static/js/2.df9464a5.chunk.js.map": "/spotimy/static/js/2.df9464a5.chunk.js.map",
     "index.html": "/spotimy/index.html",
-    "precache-manifest.4055e7f8f233825c91926353c9238c18.js": "/spotimy/precache-manifest.4055e7f8f233825c91926353c9238c18.js",
+    "precache-manifest.01efbac83d4edcdf31b66accba50ac62.js": "/spotimy/precache-manifest.01efbac83d4edcdf31b66accba50ac62.js",
     "service-worker.js": "/spotimy/service-worker.js",
     "static/css/main.819b5eb3.chunk.css.map": "/spotimy/static/css/main.819b5eb3.chunk.css.map",
     "static/js/2.df9464a5.chunk.js.LICENSE.txt": "/spotimy/static/js/2.df9464a5.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7615c368.js",
     "static/js/2.df9464a5.chunk.js",
     "static/css/main.819b5eb3.chunk.css",
-    "static/js/main.dcb5a63d.chunk.js"
+    "static/js/main.d9d88cd8.chunk.js"
   ]
 }
